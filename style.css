@@ -1,7 +1,6 @@
-.bg {
 
-    background-image:url("lamapbutweexposednow.psd.jpeg");
-    width: 150%;
-    height: 150px;
-    background-size: 100% 100%;
+.bg {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
