@@ -1,6 +1,7 @@
 .header {
 
     background-image:src="Messages Image(514754994).png"
-  
+    width: 150px
+    height: 100%
     background-size: 100% 100%;
 }
